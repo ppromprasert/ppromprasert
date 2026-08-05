@@ -4,7 +4,7 @@ Bioinformatics Analyst focused on **cancer genomics, multi-omics, computational 
 
 I develop reproducible workflows for complex biomedical datasets spanning DNA sequencing, bulk and single-cell RNA sequencing, DNA methylation, population genomics, immune profiling, and clinical data integration.
 
-## Current interests
+## Current Works
 
 - Precision oncology and translational genomics
 - Multi-omics integration
