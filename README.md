@@ -2,10 +2,7 @@
 
 **Bioinformatics Analyst | Cancer Genomics | Multi-Omics | Computational Biology**
 
-M.S. Bioinformatics scientist developing reproducible computational
-workflows for precision oncology, with experience across DNA-seq,
-RNA-seq, single-cell RNA-seq, DNA methylation, population genomics,
-and clinical outcome modeling.
+Bioinformatics scientist developing reproducible computational workflows for precision oncology across cancer genomics, transcriptomics, single-cell biology, epigenomics, population genomics, and clinical outcomes.
 
 My work focuses on translating high-dimensional cancer datasets into
 biologically interpretable and statistically defensible results.
@@ -25,6 +22,19 @@ biologically interpretable and statistically defensible results.
 ### Thyroid Cancer Multi-Omics
 Integrated somatic DNA, RNA expression, clinical phenotypes,
 MAPK driver biology, inflammatory programs, and disease status.
+
+### CMS4 Single-Cell Immune States & Ancestry
+
+Single-cell analysis of ancestry-associated immune-state heterogeneity
+within CMS4 colorectal cancer.
+
+**Methods:** Seurat, compartment-specific QC, Harmony batch integration,
+Azimuth reference annotation, patient-level pseudobulk aggregation,
+DESeq2, GO Biological Process GSEA, MSigDB Hallmark GSEA.
+
+**Immune programs:** CD8 cytotoxic/exhaustion states, CD4/Treg/Tfh states,
+B-cell/plasma differentiation, M2/TAM programs, mast-cell signaling,
+and progenitor-like lineage states.
 
 **Methods:** Mutect2, MAF harmonization, DESeq2, driver reconciliation,
 pathway scoring, multivariable modeling, DNA-RNA integration.
@@ -73,7 +83,7 @@ Linux/Slurm/HPC.
 **Languages:** R · Python · Bash  
 **Workflow/HPC:** Linux · Slurm · Nextflow · nf-core · Conda · Git  
 **Genomics:** GATK · bcftools · samtools · VEP · ANNOVAR · maftools  
-**Transcriptomics:** DESeq2 · Salmon · Seurat · SingleR · Azimuth  
+**Transcriptomics / Single-Cell: Salmon · DESeq2 · Seurat · Harmony · Azimuth · SingleR · pseudobulk analysis · GSEA  
 **Epigenomics:** Illumina EPIC · sesame · limma · EpiDISH  
 **Population Genomics:** PLINK · ADMIXTURE · 1000 Genomes · HGDP  
-**Statistics:** GLM · Cox PH · Kaplan-Meier · PCA · clustering · FDR
+**Statistics: GLM · Cox PH · Kaplan–Meier · likelihood-ratio tests · nonparametric inference · interaction modeling · multiple-testing correction
