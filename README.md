@@ -22,21 +22,6 @@ I develop reproducible workflows for complex biomedical datasets spanning DNA se
 **Transcriptomics:** DESeq2, Salmon, Seurat, SingleR, Monocle3, inferCNV  
 **Epigenomics:** Illumina EPIC arrays, limma, sesame, EpiDISH  
 **Population genomics:** PLINK, ADMIXTURE, SNPRelate, SeqArray  
-**Statistics:** generalized linear models, survival analysis, non-parametric testing, multiple-testing correction  
-
-## Featured portfolio projects
-
-### [Cancer Genomics Analysis](https://github.com/ppromprasert/cancer-genomics-analysis)
-A reproducible example workflow for somatic mutation QC, MAF summarization, driver-gene profiling, tumor mutational burden, mutational signatures, and copy-number interpretation using synthetic or public data.
-
-### [Cancer Multi-Omics Analysis](https://github.com/ppromprasert/cancer-multiomics-analysis)
-A compact framework for integrating mutation, gene-expression, copy-number, and clinical data for subgroup comparisons, pathway interpretation, and survival analysis.
-
-### [Epigenomics Analysis](https://github.com/ppromprasert/epigenomics-analysis)
-A sanitized Illumina methylation workflow demonstrating QC concepts, beta/M-value handling, differential methylation, targeted CpG summaries, and immune-deconvolution-ready data structures.
-
-### [Population Genomics](https://github.com/ppromprasert/population-genomics-analysis)
-A reproducible PLINK/ADMIXTURE-oriented workflow for genotype QC, LD pruning, PCA, ancestry inference, and visualization using public reference data.
-
+**Statistics:** generalized linear models, survival analysis, non-parametric testing, multiple-testing correction 
 
 > **Data note:** These repositories are portfolio demonstrations only. They do not contain patient-level, protected, proprietary, institutional, or unpublished research data.
