@@ -38,7 +38,5 @@ A sanitized Illumina methylation workflow demonstrating QC concepts, beta/M-valu
 ### [Population Genomics](https://github.com/ppromprasert/population-genomics)
 A reproducible PLINK/ADMIXTURE-oriented workflow for genotype QC, LD pruning, PCA, ancestry inference, and visualization using public reference data.
 
-### [Precision Oncology ML](https://github.com/ppromprasert/precision-oncology-ml)
-A learning-focused machine-learning project using synthetic multi-omic features to demonstrate preprocessing, cross-validation, model comparison, calibration, feature importance, and interpretable prediction.
 
 > **Data note:** These repositories are portfolio demonstrations only. They do not contain patient-level, protected, proprietary, institutional, or unpublished research data.
