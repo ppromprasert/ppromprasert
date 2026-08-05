@@ -35,7 +35,7 @@ A compact framework for integrating mutation, gene-expression, copy-number, and 
 ### [Epigenomics Analysis](https://github.com/ppromprasert/epigenomics-analysis)
 A sanitized Illumina methylation workflow demonstrating QC concepts, beta/M-value handling, differential methylation, targeted CpG summaries, and immune-deconvolution-ready data structures.
 
-### [Population Genomics](https://github.com/ppromprasert/population-genomics)
+### [Population Genomics](https://github.com/ppromprasert/population-genomics](https://github.com/ppromprasert/population-genomics-analysis)
 A reproducible PLINK/ADMIXTURE-oriented workflow for genotype QC, LD pruning, PCA, ancestry inference, and visualization using public reference data.
 
 
